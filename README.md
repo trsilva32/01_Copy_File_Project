@@ -1,2 +1,3 @@
 # FileManagement_Python
-File Management
+Este projeto é para coleta de arquivos em diferentes servidores FTP / Servidor de Arquivos ----> Desenvolvido para automatizar o processo realizado diáriamente.
+
